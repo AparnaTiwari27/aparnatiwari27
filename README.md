@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aparna Tiwari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankfzb&label=Profile%20views&color=0e75b6&style=flat" alt="shashankfzb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aparnatiwari27&label=Profile%20views&color=0e75b6&style=flat" alt="aparnatiwari27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankfzb" alt="shashankfzb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shashanksh18854" target="blank"><img src="https://img.shields.io/twitter/follow/shashanksh18854?logo=twitter&style=for-the-badge" alt="shashanksh18854" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aparnatiwari27" alt="aparnatiwari27" /></a> </p>
 
 - 🔭 I’m currently working on MySelf
 
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **Software Engineering, Generative AI, Leadership**
 
-- 📫 How to reach me **shashankfzbpaco@gmail.com**
+- 📫 How to reach me **aparnatiwari656@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
